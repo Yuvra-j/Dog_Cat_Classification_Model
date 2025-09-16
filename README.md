@@ -1,4 +1,4 @@
-Cat-Dog Classification Model'
+"Cat-Dog Classification Model'
 
 Binary classifier using SVM with HOG features and PCA to distinguish cats and dogs from images. Trained on Kaggle's Dogs vs. Cats dataset.
 - HOG feature extraction.
