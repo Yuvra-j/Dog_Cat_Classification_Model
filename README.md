@@ -13,8 +13,8 @@ Installation:
 Usage:
 - Load data: `python data/load_data.py`
 - Train model: `python models/model.py`
-- Evaluate: `python evaluation/evaluate.py`
-- Predict single image: `python evaluation/test.py`
+- Evaluate: `python evaluation_of_model/evaluate.py`
+- Predict single image: `python prediction/test.py`
 
 Results:
 - Accuracy:79.89
